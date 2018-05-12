@@ -1,0 +1,35 @@
+_repo: Liga-Patriotica-do-Norte_32872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquinio de Quental, Anthero
+    - De Quental, Antero
+    - Tarquino do Quental, Anthero
+    - Quental, Anthero de
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32872'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liga Patriotica do Norte'
+- !lcc 'DP'
+- !lcsh 'Portugal -- Politics and government -- 1889-1908'
+title: Liga Patriotica do Norte
+url: http://www.gutenberg.org/ebooks/32872
